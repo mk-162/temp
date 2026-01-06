@@ -1,0 +1,14 @@
+{
+    "https://www.cabletiesunlimited.com/": {
+        "title": "Zip Ties | Cable Ties - Cable Ties Unlimited",
+        "is_b2b": false
+    },
+    "https://ziptie.com/": {
+        "title": "Quality Zip Ties, Cable Ties, Tie Wraps, Bulk Discounts & More! \u2013 ZipTie.com",
+        "is_b2b": true
+    },
+    "https://www.cabletiesandmore.com/": {
+        "title": "Cabletiesandmore.com - Cable Management At The Lowest Prices",
+        "is_b2b": true
+    }
+}

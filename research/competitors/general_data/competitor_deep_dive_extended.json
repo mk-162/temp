@@ -1,0 +1,656 @@
+[
+    {
+        "url": "https://www.cabletiesunlimited.com/",
+        "competitor": "Cable Ties Unlimited",
+        "title": "Zip Ties | Cable Ties - Cable Ties Unlimited",
+        "b2b_signals": [],
+        "categories": [],
+        "products": []
+    },
+    {
+        "url": "https://ziptie.com/",
+        "competitor": "ZipTie.com",
+        "title": "Quality Zip Ties, Cable Ties, Tie Wraps, Bulk Discounts & More! \u2013 ZipTie.com",
+        "b2b_signals": [
+            "Bulk Pricing Highlighted",
+            "Custom Printing Services"
+        ],
+        "categories": [
+            {
+                "name": "Shop Cable Ties",
+                "url": "/pages/collection-cards"
+            },
+            {
+                "name": "Shop Security Seals",
+                "url": "/pages/security-seals"
+            },
+            {
+                "name": "Resources",
+                "url": "/pages/frequently-asked-questions"
+            },
+            {
+                "name": "Shop Cable Ties",
+                "url": "/pages/collection-cards"
+            },
+            {
+                "name": "Black Cable Ties",
+                "url": "/collections/black-cable-ties"
+            },
+            {
+                "name": "4-inch",
+                "url": "/collections/black-cable-ties-4-in"
+            },
+            {
+                "name": "5-inch",
+                "url": "/collections/black-cable-ties-5-inch"
+            },
+            {
+                "name": "6-inch",
+                "url": "/collections/black-cable-ties-6-inch"
+            },
+            {
+                "name": "8-inch",
+                "url": "https://ziptie.com/collections/black-cable-ties?filter.p.m.custom.length=8-inch"
+            },
+            {
+                "name": "9-inch",
+                "url": "/collections/black-cable-ties-9-inch"
+            },
+            {
+                "name": "11-inch",
+                "url": "/collections/black-cable-ties-11-inch"
+            },
+            {
+                "name": "14-inch",
+                "url": "/collections/black-cable-ties-14-inch"
+            },
+            {
+                "name": "15-inch",
+                "url": "/collections/black-cable-ties-15-inch"
+            },
+            {
+                "name": "18-inch",
+                "url": "/collections/black-cable-ties-18-inch"
+            },
+            {
+                "name": "21-inch",
+                "url": "/collections/black-cable-ties-21-inch"
+            },
+            {
+                "name": "22-inch",
+                "url": "/collections/black-cable-ties-22-inch"
+            },
+            {
+                "name": "24-inch",
+                "url": "/collections/black-cable-ties-24-inch"
+            },
+            {
+                "name": "28-inch",
+                "url": "/collections/black-cable-ties-28-inch"
+            },
+            {
+                "name": "32-inch",
+                "url": "/collections/black-cable-ties-32-inch"
+            },
+            {
+                "name": "36-inch",
+                "url": "/collections/black-cable-ties-36-inch"
+            },
+            {
+                "name": "40-inch",
+                "url": "/collections/black-cable-ties-40-inch"
+            },
+            {
+                "name": "48-inch",
+                "url": "/collections/black-cable-ties-48-inch"
+            },
+            {
+                "name": "60-inch",
+                "url": "/collections/black-cable-ties-60-inch"
+            },
+            {
+                "name": "18 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-18-lbs"
+            },
+            {
+                "name": "40 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-40-lbs"
+            },
+            {
+                "name": "45 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-45-lbs"
+            },
+            {
+                "name": "50 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-50-lbs"
+            },
+            {
+                "name": "75 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-75-lbs"
+            },
+            {
+                "name": "120 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-120-lbs"
+            },
+            {
+                "name": "175 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-175-lbs"
+            },
+            {
+                "name": "250 lbs",
+                "url": "/collections/black-cable-ties-tensile-strength-250-lbs"
+            },
+            {
+                "name": "2.5 mm",
+                "url": "/collections/black-cable-ties-width-2-5-mm"
+            },
+            {
+                "name": "3.3 mm",
+                "url": "/collections/black-cable-ties-width-3-3-mm"
+            },
+            {
+                "name": "3.6 mm",
+                "url": "/collections/black-cable-ties-width-3-6-mm"
+            },
+            {
+                "name": "4.4 mm",
+                "url": "/collections/black-cable-ties-width-4-4-mm"
+            },
+            {
+                "name": "4.6 mm",
+                "url": "/collections/black-cable-ties-width-4-6-mm"
+            },
+            {
+                "name": "4.8 mm",
+                "url": "/collections/black-cable-ties-width-4-8-mm"
+            },
+            {
+                "name": "7.6 mm",
+                "url": "/collections/black-cable-ties-width-7-6-mm"
+            },
+            {
+                "name": "8.8 mm",
+                "url": "/collections/black-cable-ties-width-8-8-mm"
+            },
+            {
+                "name": "9 mm",
+                "url": "/collections/black-cable-ties-width-9-mm"
+            },
+            {
+                "name": "12.4 mm",
+                "url": "/collections/black-cable-ties-width-12-4-mm"
+            },
+            {
+                "name": "25",
+                "url": "/collections/black-cable-ties-25-ties-per-pack"
+            },
+            {
+                "name": "50",
+                "url": "/collections/black-cable-ties-50-ties-per-pack"
+            },
+            {
+                "name": "100",
+                "url": "/collections/black-cable-ties-100-ties-per-pack"
+            },
+            {
+                "name": "500",
+                "url": "/collections/black-cable-ties-500-ties-per-pack"
+            },
+            {
+                "name": "1,000",
+                "url": "/collections/black-cable-ties-1-000-ties-per-pack"
+            },
+            {
+                "name": "Natural Cable Ties",
+                "url": "/collections/natural-cable-ties"
+            },
+            {
+                "name": "4-inch",
+                "url": "/collections/natural-4-inch"
+            },
+            {
+                "name": "5-inch",
+                "url": "/collections/natural-5-inch"
+            },
+            {
+                "name": "6-inch",
+                "url": "/collections/natural-6-inch"
+            },
+            {
+                "name": "8-inch",
+                "url": "/collections/natural-8-inch"
+            },
+            {
+                "name": "9-inch",
+                "url": "/collections/natural-9-inch"
+            },
+            {
+                "name": "11-inch",
+                "url": "/collections/natural-11-inch"
+            },
+            {
+                "name": "14-inch",
+                "url": "/collections/natural-14-inch"
+            },
+            {
+                "name": "15-inch",
+                "url": "/collections/natural-15-inch"
+            },
+            {
+                "name": "18-inch",
+                "url": "/collections/natural-18-inch"
+            },
+            {
+                "name": "21-inch",
+                "url": "/collections/natural-21-inch"
+            },
+            {
+                "name": "22-inch",
+                "url": "/collections/natural-22-inch"
+            },
+            {
+                "name": "24-inch",
+                "url": "/collections/natural-24-inch"
+            },
+            {
+                "name": "28-inch",
+                "url": "/collections/natural-28-inch"
+            },
+            {
+                "name": "32-inch",
+                "url": "/collections/natural-32-inch"
+            },
+            {
+                "name": "36-inch",
+                "url": "/collections/natural-36-inch"
+            },
+            {
+                "name": "40-inch",
+                "url": "/collections/natural-40-inch"
+            },
+            {
+                "name": "48-inch",
+                "url": "/collections/natural-48-inch"
+            },
+            {
+                "name": "60-inch",
+                "url": "/collections/natural-60-inch"
+            },
+            {
+                "name": "18 lbs",
+                "url": "/collections/natural-ts-18-lbs"
+            },
+            {
+                "name": "40 lbs",
+                "url": "/collections/natural-ts-40-lbs"
+            },
+            {
+                "name": "45 lbs",
+                "url": "/collections/natural-ts-45-lbs"
+            },
+            {
+                "name": "50 lbs",
+                "url": "/collections/natural-ts-50-lbs"
+            },
+            {
+                "name": "75 lbs",
+                "url": "/collections/natural-ts-75-lbs"
+            },
+            {
+                "name": "120 lbs",
+                "url": "/collections/natural-ts-120-lbs"
+            },
+            {
+                "name": "175 lbs",
+                "url": "/collections/natural-ts-175-lbs"
+            },
+            {
+                "name": "270 lbs",
+                "url": "/collections/natural-ts-270-lbs"
+            },
+            {
+                "name": "2.5 mm",
+                "url": "/collections/natural-2-5-mm"
+            },
+            {
+                "name": "3.3 mm",
+                "url": "/collections/natural-3-3-mm"
+            },
+            {
+                "name": "3.6 mm",
+                "url": "/collections/natural-3-6-mm"
+            },
+            {
+                "name": "4.4 mm",
+                "url": "/collections/natural-4-4-mm"
+            },
+            {
+                "name": "4.6 mm",
+                "url": "/collections/natural-4-6-mm"
+            },
+            {
+                "name": "4.8 mm",
+                "url": "/collections/natural-4-8-mm"
+            },
+            {
+                "name": "7.6 mm",
+                "url": "/collections/natural-7-6-mm"
+            },
+            {
+                "name": "8.8 mm",
+                "url": "/collections/natural-8-8-mm"
+            },
+            {
+                "name": "9 mm",
+                "url": "/collections/natural-9-mm"
+            },
+            {
+                "name": "12.4 mm",
+                "url": "/collections/natural-12-4-mm"
+            },
+            {
+                "name": "25",
+                "url": "/collections/natural-ps-25"
+            },
+            {
+                "name": "50",
+                "url": "/collections/natural-ps-50"
+            },
+            {
+                "name": "100",
+                "url": "/collections/natural-ps-100"
+            },
+            {
+                "name": "500",
+                "url": "/collections/natural-ps-500"
+            },
+            {
+                "name": "1,000",
+                "url": "/collections/natural-ps-1-000"
+            },
+            {
+                "name": "Metal Cable Ties",
+                "url": "/collections/metal"
+            },
+            {
+                "name": "5-inch",
+                "url": "/collections/metal-5-inch"
+            },
+            {
+                "name": "8-inch",
+                "url": "/collections/metal-8-inch"
+            },
+            {
+                "name": "10.2-inch",
+                "url": "/collections/metal-10-2-inch"
+            },
+            {
+                "name": "14-inch",
+                "url": "/collections/metal-14-inch"
+            },
+            {
+                "name": "20.5-inch",
+                "url": "/collections/metal-20-5-inch"
+            },
+            {
+                "name": "26.7-inch",
+                "url": "/collections/metal-26-7-inch"
+            },
+            {
+                "name": "4.6 mm",
+                "url": "/collections/metal-4-6-mm"
+            },
+            {
+                "name": "7.9 mm",
+                "url": "/collections/metal-7-9-mm"
+            },
+            {
+                "name": "200 lbs",
+                "url": "/collections/metal-200-lbs"
+            },
+            {
+                "name": "350 lbs",
+                "url": "/collections/metal-350-lbs"
+            },
+            {
+                "name": "50",
+                "url": "/collections/metal-ps-50"
+            },
+            {
+                "name": "100",
+                "url": "/collections/metal-ps-100"
+            },
+            {
+                "name": "Color Cable Ties",
+                "url": "/collections/color-cable-ties"
+            },
+            {
+                "name": "Blue",
+                "url": "/collections/zip-ties-blue"
+            },
+            {
+                "name": "Dark Brown",
+                "url": "/collections/zip-ties-dark-brown"
+            },
+            {
+                "name": "Dark Green",
+                "url": "/collections/zip-ties-dark-green"
+            },
+            {
+                "name": "Fluorescent Green",
+                "url": "/collections/zip-ties-fluorescent-green"
+            },
+            {
+                "name": "Fluorescent Pink",
+                "url": "/collections/zip-ties-fluorescent-pink"
+            },
+            {
+                "name": "Fluorescent Orange",
+                "url": "/collections/zip-ties-fluorescent-orange"
+            },
+            {
+                "name": "Fluorescent Yellow",
+                "url": "/collections/cable-ties-fluorescent-yellow"
+            },
+            {
+                "name": "Hi-Vis Yellow",
+                "url": "/collections/zip-ties-hi-vis-yellow"
+            },
+            {
+                "name": "Purple",
+                "url": "/collections/zip-ties-purple"
+            },
+            {
+                "name": "Red",
+                "url": "/collections/zip-ties-red"
+            },
+            {
+                "name": "Specialty Cable Ties",
+                "url": "/collections/specialty-cable-ties"
+            },
+            {
+                "name": "Beaded",
+                "url": "/collections/beaded"
+            },
+            {
+                "name": "Double Loop",
+                "url": "/collections/double-loop"
+            },
+            {
+                "name": "Double Loop Beaded",
+                "url": "/collections/double-loop-beaded"
+            },
+            {
+                "name": "Fuel Hose",
+                "url": "/collections/fuel-hose"
+            },
+            {
+                "name": "Hand Cuff",
+                "url": "/collections/hand-cuff"
+            },
+            {
+                "name": "Hook and Loop",
+                "url": "/collections/hook-and-loop"
+            },
+            {
+                "name": "Low Profile",
+                "url": "/collections/low-profile"
+            },
+            {
+                "name": "Metal",
+                "url": "/collections/metal"
+            },
+            {
+                "name": "Metal Detectable",
+                "url": "/collections/metal-detectable"
+            },
+            {
+                "name": "Metal Pawl",
+                "url": "/collections/metal-pawl"
+            },
+            {
+                "name": "Plenum",
+                "url": "/collections/plenum"
+            },
+            {
+                "name": "Releasable Pawl",
+                "url": "/collections/releasable-pawl"
+            },
+            {
+                "name": "Screw Mount",
+                "url": "/collections/screw-mount"
+            },
+            {
+                "name": "Sharp Tip",
+                "url": "/collections/sharp-tip"
+            },
+            {
+                "name": "Solar",
+                "url": "/collections/solar-cable-ties"
+            },
+            {
+                "name": "Steel Tooth",
+                "url": "/collections/steel-tooth"
+            },
+            {
+                "name": "Tie Mounts",
+                "url": "/collections/tie-mounts"
+            },
+            {
+                "name": "Twist and Cut",
+                "url": "/collections/twist-cut"
+            },
+            {
+                "name": "Explore All Products",
+                "url": "/pages/collection-cards"
+            },
+            {
+                "name": "Shop Security Seals",
+                "url": "/pages/security-seals"
+            },
+            {
+                "name": "Bolt Seals",
+                "url": "/collections/bolt"
+            },
+            {
+                "name": "Custom",
+                "url": "/products/custom-high-security-bolt-seals"
+            },
+            {
+                "name": "Stock",
+                "url": "/products/stock-high-security-bolt-seal-matrix-parent"
+            },
+            {
+                "name": "Bolt Cutter",
+                "url": "/products/bolt-cutter-with-soft-rubber-grip-24-in-chrome-molybdenum-steel-blade"
+            },
+            {
+                "name": "Pull-Tight Seals",
+                "url": "/pages/security-seals"
+            },
+            {
+                "name": "Custom",
+                "url": "/products/custom-pull-tight-security-seal-matrix-parent"
+            },
+            {
+                "name": "Stock",
+                "url": "/products/stock-pull-tight-security-seal-matrix-parent"
+            },
+            {
+                "name": "Truck Seals",
+                "url": "/pages/security-seals"
+            },
+            {
+                "name": "Custom",
+                "url": "/products/custom-high-strength-plastic-truck-seal-matrix-parent"
+            },
+            {
+                "name": "Stock",
+                "url": "/products/stock-high-strength-plastic-truck-seal-matrix-parent"
+            },
+            {
+                "name": "Shop All",
+                "url": "/pages/security-seals"
+            },
+            {
+                "name": "Explore All Products",
+                "url": "/pages/security-seals"
+            },
+            {
+                "name": "Resources",
+                "url": "/pages/frequently-asked-questions"
+            },
+            {
+                "name": "About Us",
+                "url": "/pages/about"
+            },
+            {
+                "name": "Contact Us",
+                "url": "/pages/contact"
+            },
+            {
+                "name": "Credit Application",
+                "url": "/pages/credit-application"
+            },
+            {
+                "name": "FAQs",
+                "url": "/pages/frequently-asked-questions"
+            },
+            {
+                "name": "Blogs",
+                "url": "/blogs/blog"
+            },
+            {
+                "name": "Explore All Products",
+                "url": "/collections/all"
+            },
+            {
+                "name": "855-947-8433",
+                "url": "tel:855-947-8433"
+            },
+            {
+                "name": "Product Catalog",
+                "url": "https://cdn.shopify.com/s/files/1/0724/0210/8658/files/Ziptie.com_Catlog_8.25.pdf?v=1756412368"
+            },
+            {
+                "name": "sales@ziptie.com",
+                "url": "mailto:sales@ziptie.com"
+            },
+            {
+                "name": "Order History",
+                "url": "https://ziptie.com/customer_authentication/redirect?locale=en\u00aeion_country=US"
+            }
+        ],
+        "products": []
+    },
+    {
+        "url": "https://www.cabletiesandmore.com/",
+        "competitor": "Cable Ties & More",
+        "title": "Cabletiesandmore.com - Cable Management At The Lowest Prices",
+        "b2b_signals": [
+            "Government/Military Sales"
+        ],
+        "categories": [],
+        "products": []
+    }
+]
